@@ -6,4 +6,4 @@ We have chosen 3 expressions:
 * Neutal
 * Sad
 
-Our Project works both on photos and Live Camera  .
+Our Project works both on photos and Live Camera.
