@@ -7,3 +7,4 @@ We have chosen 3 expressions:
 * Sad
 
 Our Project works both on photos and Live Camera.
+ 
